@@ -7,6 +7,6 @@ apellido = Console.ReadLine();
 Console.WriteLine("Tu apellido es: + apellido);
 
 
-Console.WriteLine("Mi nombre completp es:");
+Console.WriteLine("Mi nombre completp es:" + apellido);
 //hola a todos//
 
